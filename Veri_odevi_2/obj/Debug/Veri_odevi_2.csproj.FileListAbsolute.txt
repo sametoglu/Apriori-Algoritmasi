@@ -1,0 +1,9 @@
+c:\users\samet\documents\visual studio 2013\Projects\Veri_odevi_2\Veri_odevi_2\bin\Debug\Veri_odevi_2.exe.config
+c:\users\samet\documents\visual studio 2013\Projects\Veri_odevi_2\Veri_odevi_2\bin\Debug\Veri_odevi_2.exe
+c:\users\samet\documents\visual studio 2013\Projects\Veri_odevi_2\Veri_odevi_2\bin\Debug\Veri_odevi_2.pdb
+c:\users\samet\documents\visual studio 2013\Projects\Veri_odevi_2\Veri_odevi_2\obj\Debug\Veri_odevi_2.Form1.resources
+c:\users\samet\documents\visual studio 2013\Projects\Veri_odevi_2\Veri_odevi_2\obj\Debug\Veri_odevi_2.Properties.Resources.resources
+c:\users\samet\documents\visual studio 2013\Projects\Veri_odevi_2\Veri_odevi_2\obj\Debug\Veri_odevi_2.csproj.GenerateResource.Cache
+c:\users\samet\documents\visual studio 2013\Projects\Veri_odevi_2\Veri_odevi_2\obj\Debug\Veri_odevi_2.exe
+c:\users\samet\documents\visual studio 2013\Projects\Veri_odevi_2\Veri_odevi_2\obj\Debug\Veri_odevi_2.pdb
+C:\Users\samet\documents\visual studio 2013\Projects\Veri_odevi_2\Veri_odevi_2\obj\Debug\Veri_odevi_2.csprojResolveAssemblyReference.cache
